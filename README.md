@@ -9,14 +9,17 @@ It is not 100% perfect but should help reduce work.
 replace the text in the json_string with a list of json. Even single json object needs to be in a list.
 
 **single**
+```
 [
     {
         "YOUR": true
         "JSON": "HERE"
     }
 ]
+```
 
 **multiple**
+```
 [
     {
         "YOUR": true
@@ -27,3 +30,4 @@ replace the text in the json_string with a list of json. Even single json object
         "JSON": "HERE"
     }
 ]
+```
